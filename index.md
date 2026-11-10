@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an ecologist interested in understanding how and why ecosystems change across space and across time. This work aims to help us as individuals and communities better understand the impacts that our actions have on ecosystems, and to better predict how ecosystem services will change in response to our actions and to climate change. I like to be a part of interdisciplinary research efforts, and I view the study of ecosystems as necessarily interdisciplinary work that considers the ecological alongside the social. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Adaptive Management:** iterative decision making informed by monitoring and outcomes
+- **Data Science:** detecting ecological patterns and processes through analysis 
+- **Ecosystem Services:** Recognizing how our well-being is tied directly and indirectly to ecological processes 
 
 ## News
 
