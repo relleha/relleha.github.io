@@ -8,9 +8,9 @@ I am an ecologist interested in understanding how and why ecosystems change acro
 
 ## Research Interests
 
-- **Adaptive Management:** iterative decision making informed by monitoring and outcomes
-- **Data Science:** detecting ecological patterns and processes through analysis 
-- **Ecosystem Services:** recognizing how our well-being is tied directly and indirectly to ecological processes 
+- **Adaptive management:** iterative decision making informed by monitoring and outcomes
+- **Data science:** detecting ecological patterns and processes through analysis 
+- **Ecosystem services:** recognizing how our well-being is tied directly and indirectly to ecological processes 
 - **Critical cartography:** map-making with the acknowledgement that maps are not neutral representations of space but reflect systems of power, typically aligned with the interests of the mapmaker
   
 ## News
