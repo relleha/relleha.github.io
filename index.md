@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an ecologist interested in understanding how and why ecosystems change across space and across time. This work aims to help us as individuals and communities better understand the impacts that our actions have on ecosystems, and to better predict how ecosystem services will change in response to our actions and to climate change. I like to be a part of interdisciplinary research efforts, and I view the study of ecosystems as necessarily interdisciplinary work that considers the ecological alongside the social. 
+I am an ecologist interested in understanding how and why ecosystems change across space and across time. This work aims to help us as individuals and communities better understand the impacts that our actions have on ecosystems, and to better predict how ecosystem services will change in response to our actions and to climate change. I view the study of ecosystems as necessarily interdisciplinary work that considers the ecological alongside the social. 
 
 ## Research Interests
 
