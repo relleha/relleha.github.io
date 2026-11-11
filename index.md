@@ -9,7 +9,7 @@ I am an ecologist interested in understanding **how and why ecosystems change ac
 ## Research Interests
 
 - **Adaptive management:** iterative decision making informed by monitoring and outcomes
-- - **Critical cartography:** map-making with the acknowledgement that maps are not neutral representations of space but reflect systems of power, typically aligned with the interests of the mapmaker
+- **Critical cartography:** map-making with the acknowledgement that maps are not neutral representations of space but reflect systems of power, typically aligned with the interests of the mapmaker
 - **Data science:** detecting ecological patterns and processes through analysis 
 - **Ecosystem services:** recognizing how our well-being is tied directly and indirectly to ecological processes 
 
