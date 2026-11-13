@@ -15,7 +15,7 @@ I am an ecologist interested in understanding **how and why ecosystems change ac
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Nov. 2026]** In collaboration with [Green Gold Mongolian Rangeland Research Center](https://en.greengoldmrrc.com/), preparing a presentation for the [Sixth Annual Two-Eyed Seeing Conference](https://www.trancesonics.com/events/coyote-institutes-sixth-annual-two-eyed-seeing-conference) in late January - we will be talking about how the traditional ecological knowledge of Mongolian nomadic herders is used alongside state-and-transition models for resilient cashmere and yak down value chains. 
 
 
 {% include_relative _includes/publications.md %}
