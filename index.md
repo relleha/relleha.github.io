@@ -13,12 +13,6 @@ I am an ecologist interested in understanding **how and why ecosystems change ac
 - **Data science:** detecting ecological patterns and processes through analysis 
 - **Ecosystem services:** recognizing how our well-being is tied directly and indirectly to ecological processes
 
-## Services
-- **Geospatial analyses**
-- **Environmental analyses**
-- **Grant writing/editing**
-- **Nature-based climate solutions consultation**
-
 ## News
 
 - **[Nov. 2026]** In collaboration with [Green Gold Mongolian Rangeland Research Center](https://en.greengoldmrrc.com/), preparing a presentation for the [Sixth Annual Two-Eyed Seeing Conference]([https://www.trancesonics.com/events/coyote-institutes-sixth-annual-two-eyed-seeing-conference](https://www.coyote-institute.org/events/coyote-institutes-sixth-annual-two-eyed-seeing-conference) - we will be talking about how the traditional ecological knowledge of Mongolian nomadic herders is used alongside state-and-transition models for resilient cashmere and yak down value chains. 
