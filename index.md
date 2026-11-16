@@ -14,7 +14,9 @@ I am an ecologist interested in understanding **how and why ecosystems change ac
 - **Ecosystem services:** recognizing how our well-being is tied directly and indirectly to ecological processes
 
 ## Services
-- **
+- **Geospatial analyses**
+- **Grant writing/editing**
+- **Nature-based climate solutions consultation**
 
 ## News
 
